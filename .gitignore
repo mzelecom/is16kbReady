@@ -1,0 +1,9 @@
+# Visual Studio
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.vs/
+Release/
+Debug/
